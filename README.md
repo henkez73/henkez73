@@ -3,6 +3,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=henkez73.repoName)
 
 - 🔭 I am currently working as a DevOps Engineer Team Lead (AWS)
+- 🔭 My current work "alter ego" is https://github.com/henk-els
 - 🌱 Linux Foundation Certified Kubernetes Administrator
 - 🌱 Linux Foundation Certified Kubernetes Security Specialist
 - 🌱 Google Certified Professional Cloud Architect (exp 07/2023)
